@@ -174,13 +174,13 @@ footer .glyphicon {
     width: 100%;
     margin-bottom: 35px;
   }
-  img#hideme {
+  img #hideme {
     display: none;
   }
-  div#imagensedit1 {
+  div #imagensedit1 {
     width: 100%;
   }
-  div#imagensedit2 {
+  div #imagensedit2 {
     width: 100%;
   }
   
