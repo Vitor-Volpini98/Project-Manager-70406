@@ -174,6 +174,16 @@ footer .glyphicon {
     width: 100%;
     margin-bottom: 35px;
   }
+  img#hideme {
+    display: none;
+  }
+  div#imagensedit1 {
+    width: 100%;
+  }
+  div#imagensedit2 {
+    width: 100%;
+  }
+  
 }
 @media screen and (max-width: 480px) {
   .logo {
@@ -284,3 +294,12 @@ footer .glyphicon {
     transform: rotate(1turn);
   }
 }
+/*QR CODE EDITOR*/
+.qreditor{
+  width: 16%;
+  float: right;
+  margin-right: 7%;
+  margin-top: 3%;
+}
+
+
